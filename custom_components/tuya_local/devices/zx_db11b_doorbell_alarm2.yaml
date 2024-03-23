@@ -33,8 +33,7 @@ primary_entity:
       name: master_language
 secondary_entities:
   - entity: sensor
-    name: alarm_msg
-    category: diagnostic
+    name: Ringing
     dps:
       - id: 26
         type: base64
